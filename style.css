@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    background: linear-gradient(to right, #272027 70%, black 30px);
+    background-size: 60px;
+    height: 420px;
+    width: 1170px;
+}
+div.container {
+    width: 160px;
+    height: 230px;
+    position: absolute;
+    left: 43%;
+    top: 25%;
+}
+
+div.logos, p, img.logo {
+    text-align: center;
+}
+img {
+    margin: 10px;
+}
+p{
+    color:white;
+}
+footer {
+    color: white;
+}
+span {
+    color: #00c9fc;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+  }
